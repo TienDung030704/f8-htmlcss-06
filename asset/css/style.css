@@ -22,9 +22,13 @@ a {
 }
 /* ==============Header============= */
 .header {
-  margin-top: 53px;
+  position: sticky;
+  inset: 0;
+  background-color: #fbfaff;
+  z-index: 99;
 }
 .header .header-top {
+  padding-top: 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -1013,5 +1017,57 @@ dạ vậy có gì để em thử kh đc em hỏi a ạ
 ừ 
 dạ oke ạ
 thôi hhojc đi nhá bao  xong anh vào xem lại cho nhá bye 
+dạ
+hover chữ màu đỏ à 
+Dạ em chọn màu đại á anh
+Chịu rồi lấy màu tím thì ko lấy 
+v h đổi lại màu cái đó hả a 
+đúng rồi 
+còn cái nào kh ạ kiểu thêm hiệu ứng vô á a
+bổ sung them phần hashtag trên url vào nhé 
+cái đó em nhớ hồi trước có làm mà sao bh em quên mất cách làm r á anh =((
+tý vào xem lại bàoi học làm vuệc với thẻ  a nnhes 
+Dạ rồi còn nào nữa kh ạ anh coi qua hẳn 1 lượt có gì chỉ em luôn ạ 
+anh nói em sửa thôi =)) 
+vỡ giao diện  ìa 
+Vỡ chỗ nào ạ 
+Dem ko thấy à 
+cái đó em cho nó ra xa luôn mà kh bt làm đko
+với lại cái ảnh hqua anh kêu em là css lại á em có css cái ở giữa r mà cái ảnh dưới nó vẫn bị trồi lên em kh bt sao luôn ạ
+chho relative vô rồi -zinde bằng hai nhé tý tự sửa nhé 
+
+hi@arif.interactive
+
+ này cho mail to vào nhé 
+ What is your hourly rate?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna, non nisl tincidunt ut elementum turpis.
+mấy này có bấm đc đâu mà dấu trừ cnos còn ình tròn mà 
+mấy cái nút màu trắng cho hover màu tím chữ trắng vào 
+nút màu tím hover opacit 0.8 là đc 
+À tutu anh ơi cái dấu trừ màu tím hqua anh fix cho em xong cái nó mất luôn cái vòng tròn mà em fix lại sao nó kh ăn á anh 
+thiếu bỏder chứ đâu ha xóa nhầm nhề tý bổ sung ào nhé 
+là thiếu border hả a tại em có border radius máo kh ăn
+ừ tú bỏ sung vào nhé 
+cái header em làm sticky đi nhé 
+cái đó anh hướng dẫn em làm đc kh ạ tại em làm nó kh đc á anh =((
+thêhs đợi xíu 
+đấy tạm thời thế đã anh hướng dẫn em cái header nữa rồi em tự sửa nhé 
+dạ không anh làm mẫu em xem thử đc kh 
+cái header á anh
+anh hướng dẫn em cái sticky thôi còn đâu em tự sửa lịa nhé 
 dạ 
+oki ro day bo sung them mau vafo hero di daay 
+bổ sung background màu trắng vào hero nx hả a
+#fbfaff mau 
+dạ em hiểu rồi à anh coi thử giúp em cái này với ạ sao github của em nó đẩy được mỗi reset lên tha fa5 cò l5 hl6 đc
+a oki de anh xem 
+cai nao em nhe
+cái dự án 6 á anh f8-html-css-06 á anh
+no len roi day thay 
+bth em thấy là vô cái phần commit gì thì nó sẽ có mấy cái file em đẩy lên mà nhỉ
+no len roi ma 
+ben trai nay 
+thay chuwa 
+day
+ủa bth là em tạo xong em đưa lê thì nó sẽ có cả file html css của em mà sao thấy mỗi có file reset à anh =))
 */
